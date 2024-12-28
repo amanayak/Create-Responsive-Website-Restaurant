@@ -1,5 +1,5 @@
 # Responsive Restaurant Website
-## [LIVE PREVIEW](https://amanayak.github.io/Create-Responsive-Website-Restaurant)
+## [LIVE PREVIEW](https://codinggujaratweb.github.io/Create-Responsive-Website-Restaurant)
 ### Responsive Restaurant Website
 
 - Responsive Restaurant Website Design Using HTML CSS & JavaScript
